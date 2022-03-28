@@ -26,13 +26,23 @@
     </el-tooltip>
 
     <el-tooltip :content="t('template process')">
-      <a class="icon-btn mx-2" href="https://juejin.cn/post/7058201396113309703" target="_blank" title="JveJin">
+      <a
+        class="icon-btn mx-2"
+        href="https://juejin.cn/post/7058201396113309703"
+        target="_blank"
+        title="JveJin"
+      >
         <i-mdi-content-duplicate class="icon-footer" />
       </a>
     </el-tooltip>
 
     <el-tooltip content="GitHub">
-      <a class="icon-btn mx-2" href="https://github.com/nekobc1998923/vitecamp" target="_blank" title="GitHub">
+      <a
+        class="icon-btn mx-2"
+        href="https://github.com/nekobc1998923/vitecamp"
+        target="_blank"
+        title="GitHub"
+      >
         <i-akar-icons-github-fill class="icon-footer" />
       </a>
     </el-tooltip>
